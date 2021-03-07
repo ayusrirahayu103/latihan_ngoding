@@ -1,0 +1,1 @@
+print ("selamat pagi dunia")

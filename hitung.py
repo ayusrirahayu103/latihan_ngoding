@@ -1,0 +1,5 @@
+a = int(input("masukan nilai a : "))
+b = int(input("masukan nilai b : "))
+c = int(input("masukan nilai c : "))
+d = int(a+b+c) 
+print ("hasilnya adalah :",d)
